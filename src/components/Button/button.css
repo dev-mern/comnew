@@ -1,0 +1,12 @@
+button{
+    font-size: 60px;
+    background-color: lightskyblue;
+    border: none;
+    border-radius: 3px;
+    border: 1px dotted transparent;
+}
+
+button:hover{
+    background-color: rgb(110, 195, 248);
+    border: 1px dotted yellowgreen;
+}
